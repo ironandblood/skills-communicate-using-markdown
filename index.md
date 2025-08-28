@@ -1,25 +1,2 @@
 # this is a title
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-what can i say?
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
